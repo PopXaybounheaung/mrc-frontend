@@ -24,9 +24,15 @@
 
         <v-card
     class="mx-auto mt-5" 
-    width="600"
+    width="500"
     > 
-  <div style="background-color: green; border-radius: 14px; text-align: center;">
+    <div style="background-color: green;
+   border-radius: 14px;
+    text-align: center;
+    margin: 0px;
+    display: inline-block;
+    padding: 17px;
+    margin: 12px;" >
     <p>Moisture</p>
     <img src="" alt="">
     <p>57.3 %</p>
@@ -36,9 +42,15 @@
 
         <v-card
     class="mx-auto mt-5" 
-    width="600"
+    width="500"
     > 
-  <div style="background-color: green; border-radius: 14px; text-align: center;">
+    <div style="background-color:#204F97;
+    border-radius: 14px;
+    text-align: center;
+    margin: 0px;
+    display: inline-block;
+    padding: 17px;
+    margin: 12px;" >
     <p>Moisture</p>
     <img src="" alt="">
     <p>57.3 %</p>
@@ -49,12 +61,36 @@
 
         <v-card
     class="mx-auto mt-5" 
-    width="600"
+    width="500"
     > 
-  <div style="background-color: green; border-radius: 14px; text-align: center;">
-    <p>Moisture</p>
+  <div style="
+    border-radius: 14px;
+    text-align: center;
+    margin: 0px;
+    display: inline-block;
+    padding: 10px;
+    margin: 12px;" >
+    <p>PH</p>
     <img src="" alt="">
-    <p>57.3 %</p>
+    <p>10</p>
+
+  </div>
+        </v-card>
+
+        <v-card
+    class="mx-auto mt-5" 
+    width="500"
+    > 
+  <div style="
+    border-radius: 14px;
+    text-align: center;
+    margin: 0px;
+    display: inline-block;
+    padding: 10px;
+    margin: 12px;" >
+    <p>Temperature</p>
+    <img src="" alt="">
+    <p></p>
 
   </div>
         </v-card>
